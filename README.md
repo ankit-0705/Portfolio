@@ -42,6 +42,9 @@ This portfolio showcases my **projects**, **skills**, **achievements**, and **pe
 ## 📷 Preview
 
 <img width="1562" height="932" alt="Screenshot 2025-07-20 002523" src="https://github.com/user-attachments/assets/02254307-73fb-4dfc-be6e-d13c63d42656" />
+
+
+
 <img width="1763" height="716" alt="Screenshot 2025-07-19 200903" src="https://github.com/user-attachments/assets/54954d1a-55dd-43c6-adb6-13e7d1ba65fd" />
 
 
