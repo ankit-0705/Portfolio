@@ -10,7 +10,7 @@ const projects = [
     image: '/projects/Macrology.jpg',
     tags: ['React', 'TailwindCSS', 'DaisyUI', 'Node.js', 'MongoDB'],
     demoLink: 'https://macrology.vercel.app',
-    codeLink: 'https://github.com/AnkitSangwan03/macrology',
+    codeLink: 'https://github.com/ankit-0705/Macrology',
   },
   {
     title: 'Vehicle Plate Recognition System',
@@ -18,7 +18,7 @@ const projects = [
       'Real-time vehicle number plate detection using YOLOv11n and text extraction using EasyOCR. Includes correction mechanism for OCR errors.',
     image: '/projects/ANPR.png',
     tags: ['Python', 'YOLOv11n', 'EasyOCR', 'OpenCV', 'Roboflow'],
-    codeLink: 'https://github.com/AnkitSangwan03/vehicle-plate-recognition',
+    codeLink: 'https://github.com/ankit-0705/Python-OCR-Project',
   },
   {
     title: 'Real-Time Chat Application',
@@ -26,7 +26,7 @@ const projects = [
       'A MERN-based real-time chat app with socket.io, login system, and responsive design. Built for group and personal messaging.',
     image: '/projects/ChatApp.jpg',
     tags: ['React', 'Node.js', 'Express', 'Socket.io', 'MongoDB'],
-    codeLink: 'https://github.com/AnkitSangwan03/chat-application',
+    codeLink: 'https://github.com/ankit-0705/Chat-Application',
   },
   {
     title: 'Sentiment Analysis of Tweets',
@@ -34,7 +34,7 @@ const projects = [
       'Python tool that classifies tweet sentiment (positive, neutral, or negative) using TextBlob. Extracts tweets from JSON and cleans them with regex.',
     image: '/projects/Sentiment.jpg',
     tags: ['Python', 'TextBlob', 'Regex', 'JSON'],
-    codeLink: 'https://github.com/AnkitSangwan03/sentiment-analysis-tweets',
+    codeLink: 'https://github.com/ankit-0705/Sentiment-Analysis',
   },
 ];
 
