@@ -3,6 +3,15 @@ import { motion } from 'framer-motion';
 import ProjectCard from './projectCard'; // Adjust path if needed
 
 const projects = [
+    {
+    title: 'PolicyIntel – AI-Powered Insurance Policy Assistant',
+    description:
+      'An LLM-powered web app that understands insurance documents and automates claim decisions. Built for HackRx 6.0, it allows users to upload policies, ask natural language questions, and receive clause-backed decisions and explanations.',
+    image: '/projects/PolicyIntel.jpg', 
+    tags: ['React', 'TailwindCSS', 'Aceternity UI', 'Django', 'PostgreSQL', 'Groq', 'LLM'],
+    demoLink: 'https://policy-intel.vercel.app',
+    codeLink: 'https://github.com/ankit-0705/PolicyIntel',
+  },
   {
     title: 'Macrology – Indian Food Macro Tracker',
     description:
